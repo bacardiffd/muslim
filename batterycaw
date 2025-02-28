@@ -1,5 +1,6 @@
- { "code": 200,
-  "bao":"",
-  "bat": "200",
-  "bar": "pOI7cki2aGSwwYnUszTniVyR9Mhj9hcppQMyFTCYAFGokScxGroxcx8MxStT1wVM7FJOKJP8VAkdd8EL/ypXI8ZxwNUXVivKz/tCTA7M8oKEkOISqqVyWbtDn09NVU6oXM3KFFr0PjiPHCwbPv9E59zuVJ48du+qNe4ctOS77+LTWVBTvXNgt+SyH9BpyQW36y8XONIZntjvpU94N0mxHg=="
+ { 
+  "batteryCharging_key":"8p3ntzhl1340",
+  "batteryCharging_ent":"200",
+  "batteryCharging_tz":"",
+  "batteryCharging_ur":"pOI7cki2aGSwwYnUszTniVyR9Mhj9hcppQMyFTCYAFGokScxGroxcx8MxStT1wVM7FJOKJP8VAkdd8EL/ypXI8ZxwNUXVivKz/tCTA7M8oKEkOISqqVyWbtDn09NVU6oXM3KFFr0PjiPHCwbPv9E59zuVJ48du+qNe4ctOS77+LTWVBTvXNgt+SyH9BpyQW36y8XONIZntjvpU94N0mxHg=="
 }
